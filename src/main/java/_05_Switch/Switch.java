@@ -70,7 +70,7 @@ public class Switch {
         // 요일별 할인율 적용하여
         // 월-10%, 화수목-5%, 금토일-20%
         // 이상한값-0%
-        double discountRate;
+        double discountRate = 0.0;
         switch (day) {
             case "월요일":
                 discountRate = 0.10;
