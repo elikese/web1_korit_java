@@ -14,7 +14,7 @@
 
 ### github환경 셋팅
 1. repository 생성
-2. 내 repository접근가능한 token발급
+2. 내 repository 접근가능한 token발급
 
 ### 로컬 - github repository 연결 
 1. 원격저장소 주소를 저장 - git remote add origin 레포지토리주소
