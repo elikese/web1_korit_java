@@ -59,6 +59,5 @@ public class Main {
         u.setPassword("롬복이다!");
 
 
-
     }
 }
